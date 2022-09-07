@@ -12,7 +12,7 @@ public class togmuchi
 
     public togmuchi()
     { 
-        generator = new Random;
+        generator = new Random();
         Lever = true;   
     }
 
