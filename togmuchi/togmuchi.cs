@@ -27,6 +27,33 @@ hunger = 0;
 
 }
 }
+public void tik()
+{
+
+hunger++;
+if (hunger > 5)
+{
+
+Lever = false;
+
+}
+public void stats()
+{
+
+Console.WriteLine($"name:{namn} || hunger: {hunger}");
+
+
+}
+
+
+}
+
+
+
+
+
+
+
 
 
 }
