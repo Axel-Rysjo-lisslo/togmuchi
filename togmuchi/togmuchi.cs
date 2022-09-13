@@ -16,4 +16,17 @@ public class togmuchi
         Lever = true;   
     }
 
+public void Mata() 
+{
+Console.WriteLine($"[{namn}] jag är inte mät än. MER!");
+hunger -=1;
+if(hunger < 0)
+{
+
+hunger = 0;
+
+}
+}
+
+
 }
