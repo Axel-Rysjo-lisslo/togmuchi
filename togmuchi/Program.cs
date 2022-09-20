@@ -7,4 +7,17 @@ togmuchi togmuchi = new togmuchi();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Console.ReadLine();
