@@ -51,7 +51,8 @@ public bool Leva()
 {
 
 return Lever;
-   
+
+    
 }
 
 
