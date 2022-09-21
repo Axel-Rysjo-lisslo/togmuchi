@@ -37,6 +37,8 @@ if (hunger > 5)
 Lever = false;
 
 }
+
+}
 public void stats()
 {
 
@@ -45,14 +47,12 @@ Console.WriteLine($"name:{namn} || hunger: {hunger}");
 
 }
 
+public bool Leva()
+{
 
+return Lever;
+   
 }
-
-
-
-
-
-
 
 
 
